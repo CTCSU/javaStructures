@@ -15,5 +15,3 @@
 [java数据结构与算法之树基本概念及二叉树（BinaryTree）的设计与实现](http://blog.csdn.net/javazejian/article/details/53727333)
 
 [java数据结构与算法之平衡二叉查找树(AVL树)的设计与实现](http://blog.csdn.net/javazejian/article/details/53892797)
-  
-Test
